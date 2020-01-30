@@ -28,7 +28,7 @@ These projects are typically under development.
 <a name="what"></a>
 ## What can I open source?
 
-We're looking into this. For know the same rules apply as for our Philips-software organization.
+We're looking into this. For now the same rules apply as for our Philips-software organization.
 See: [https://github.com/philips-software/philips-howto-open-source](https://github.com/philips-software/philips-howto-open-source)
 
 <a name="philips-software"></a>
