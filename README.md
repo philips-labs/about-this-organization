@@ -65,4 +65,4 @@ Nope, please go to [https::/github.com/philips-internal](https://github.com/phil
 <a name="contact"></a>
 ## Who to contact?
 
-Contact 
+Contact @jeroenknoops
