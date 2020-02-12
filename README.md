@@ -9,6 +9,7 @@
 1. [Who should use this](#who)
 1. [Can I join](#join)
 1. [Innersource](#innersource)
+1. [Philips Organizations](#philips-organizations)
 1. [Contact](#contact)
 
 <a name="purpose"></a>
@@ -50,6 +51,16 @@ Send an email to: @jeroenknoops with a short motivation and we will add you.
 ## Can I use this for Innersource?
 
 Nope, please go to [https::/github.com/philips-internal](https://github.com/philips-internal)
+
+<a name="philips-organizations"></a>
+## Philips Organizations
+
+| Organization      | Type         | Typical projects               | Repository visibilit | Rules  |
+|-------------------|--------------|--------------------------------|----------------------|--------|
+| [philips-software](https://github.com/philips-software) | Open Source  | Mature projects                | Public               | [here](https://github.com/philips-software/philips-howto-open-source) |
+| [philips-labs](https://github.com/philips-labs)      | Open Source  | Hackathons, demos, development | Public               | [here](https://github.com/philips-labs/about-this-organization) |
+| [philips-internal](https://github.com/philips-internal)  | Inner Source | All other projects             | Internal / Private   | [here](https://github.com/philips-internal/about-this-organization) |
+
 
 <a name="contact"></a>
 ## Who to contact?
