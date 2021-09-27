@@ -29,13 +29,13 @@ These projects are typically under development.
 <a name="what"></a>
 ## What can I open source?
 
-We're looking into this. For now the same rules apply as for our Philips-software organization.
-See: [https://github.com/philips-software/philips-howto-open-source](https://github.com/philips-software/philips-howto-open-source)
+See: [https://www.philips.com/opensource](https://www.philips.com/opensource) (Internal link).
 
 <a name="philips-software"></a>
-## Where can I find the other open source stuff from Philips
+## Where can I find the other open source projects from Philips?
 
 [https://github.com/philips-software](https://github.com/philips-software)
+[https://github.com/philips-forks](https://github.com/philips-forks)
 
 <a name="who"></a>
 ## Who should use this?
@@ -50,7 +50,8 @@ Send an email to: @jeroenknoops with a short motivation and we will add you.
 <a name="innersource"></a>
 ## Can I use this for Innersource?
 
-Nope, please go to [https::/github.com/philips-internal](https://github.com/philips-internal)
+No, please go to [https://github.com/philips-internal](https://github.com/philips-internal).  
+Head over to https://www.philips.com/innersource for more information (internal link).
 
 <a name="philips-organizations"></a>
 ## Philips Organizations
